@@ -21,7 +21,7 @@ ___
 
 # Code example
 ___
- ````
+ ```
 function{color:blue} findLongestWord(text) {
     let words = text.split(" ");
     let word = "";
@@ -36,4 +36,4 @@ function{color:blue} findLongestWord(text) {
         }
     }
     return (word);
-     ````
+     ```
