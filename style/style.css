@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    position: relative;
+    height: 842px;
+    width: 595px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.black-lines {
+    width: 595px;
+    height: 4px;
+    background-color: black;
+}
+
+
+.title {
+    position: absolute;
+    width: 294px;
+    height: 60px;
+    line-height: 31px;
+    margin-top: 48px;
+    margin-left: 48px;
+    font-family: Arial;
+}
+
+
+.name {
+    font-size: 27px;
+
+}
+
+
+.working {
+    font-size: 23px;
+
+}
+
+
+.center-block {
+    position: absolute;
+    height: 630px;
+    width: 335px;
+    margin-left: 48px;
+    margin-top: 142px;
+}
+
+
+.left-block {
+    position: absolute;
+    height: 558px;
+    width: 140px;
+    margin-left: 407px;
+    margin-top: 120px;
+}
+
+
+.avatar {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    border-radius: 100%;
+    margin-top: 36px;
+    margin-left: 407px;
+
+}
+
+
+.log {
+    width: 72px;
+    height: 72px;
+}
+
+
+footer {
+    margin-top: 550px;
+    margin-left: 48px;
+}
+
+
+.log {
+    margin-top: -15px;
+    opacity: 0.3;
+}
+
+
+h4, .git {
+    font: inter;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 10px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #73808D;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+
+
+p {
+    font: inter;
+    font-weight: 500;
+    font-style: Arial;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#p {
+    font: inter;
+    font-weight: 500;
+    font-style: Arial;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+h3 {
+    font: Arial;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: left;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+
+.lb {
+   font-family: Arial;
+   font-size: 14px;
+   line-height: 21px;
+   color: #73808D;
+}
+
+
+.hlb {
+    font-family: Arial;
+    font-size: 17px;
+    line-height: 21px;
+    font-weight: 700;
+    color: #73808D;
+}
+
+
+#lb {
+    margin-top: 20px;
+}
+
+
+.education {
+    margin-top: 20px;
+}
+
+
+
+
+
